@@ -2,4 +2,4 @@ Implementation of the [publication](https://bib.irb.hr/datoteka/586214.51_camera
 
 1. Initialize virtual environment in it: `python -m venv env`,
 2. Install dependencies: `pip install -r requirements.txt`,
-3. Open project `jupyter nootebook`
+3. Open project `jupyter notebook`
